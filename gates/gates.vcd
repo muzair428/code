@@ -1,0 +1,48 @@
+$date
+	Mon Sep  9 11:51:12 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module gates_tb $end
+$var wire 1 ! out_2_tb $end
+$var wire 1 " out_1_tb $end
+$var reg 1 # a_tb $end
+$var reg 1 $ b_tb $end
+$var reg 1 % c_tb $end
+$var reg 1 & d_tb $end
+$var reg 1 ' e_tb $end
+$var reg 1 ( f_tb $end
+$scope module u_gates $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 % c $end
+$var wire 1 & d $end
+$var wire 1 ' e $end
+$var wire 1 ( f $end
+$var wire 1 ) l $end
+$var wire 1 * n $end
+$var wire 1 ! out_2 $end
+$var wire 1 " out_1 $end
+$var wire 1 + m $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1+
+0*
+1)
+1(
+1'
+1&
+0%
+1$
+0#
+0"
+0!
+$end
+#5
